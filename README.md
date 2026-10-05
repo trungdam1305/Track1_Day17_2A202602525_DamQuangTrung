@@ -432,7 +432,7 @@
 
 # |---|---|---|
 
-# | Đàm Quang Trung | Cao Đức Hiệp | Có |
+# | Đàm Quang Trung | Cao Đức Hiệp (P-02550) | Một phần — học workshop live, không tự học theo nhịp cá nhân (xem `interview/notes.md`). Đã phỏng vấn bổ sung, xem 4.4 |
 
 # | Đặng Văn Thái Anh | Trần Đức Quân | Có |
 
@@ -507,6 +507,24 @@
 # 
 
 # Buổi luyện cũng gợi ra một hướng cần theo dõi: trong buổi học live, người học không kiểm soát được tốc độ và dễ mất đoạn vì xao nhãng, còn workaround "record lại" thường không được dùng. Nhóm chưa sửa Problem Hypothesis vì đây chỉ là một lượt luyện với người không đúng tiêu chí.
+
+# 
+
+# \### 4.4. Phỏng vấn bổ sung (addendum, thêm sau Day 17)
+
+# 
+
+# \*Phiên P-02550 ở trên giữ nguyên làm bản ghi gốc. Vì phiên đó sai actor, mình phỏng vấn thêm một người. Chi tiết: `interview/notes-bo-sung.md`.\*
+
+# 
+
+# \- \*\*Kết quả:\*\* người được hỏi có tự học online ("thường tìm tài liệu trên Google, YouTube và một số website học trực tuyến") nhưng \*\*không kể được lần cụ thể nào\*\*. Khó khăn nêu ra là chọn tài liệu: "có quá nhiều tài liệu nên mình không biết tài liệu nào chính xác và phù hợp. Một số bài giảng cũng khá dài, khó tìm đúng nội dung mình cần." Phần còn lại là feature request.
+
+# \- \*\*Đối chiếu Big 3:\*\* không đủ evidence cho cả ba mục — không có episode, workaround hay hậu quả cụ thể. Không hỗ trợ, không bác bỏ Problem Hypothesis.
+
+# \- \*\*Mình lại mắc lỗi guide v2 đã cấm:\*\* lời mở đầu nêu "website hỗ trợ tự học" (lộ solution); không có story opener "lần gần nhất"; nhiều câu "Bạn có muốn…", "Bạn có sẵn sàng…"; không anchor khi user nói chung chung; không xin phép ghi âm trong bản ghi.
+
+# \- \*\*Bài học:\*\* có guide v2 chưa đủ — mình cần cầm guide khi hỏi và tự kiểm tra câu mở đầu trước khi bắt đầu.
 
 # 
 
